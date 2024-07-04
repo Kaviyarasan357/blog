@@ -1,2 +1,2 @@
 # blog
-Medical blog- Project 
+Medical Blog- Project 
